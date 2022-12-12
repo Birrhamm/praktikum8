@@ -59,3 +59,6 @@ dataMhs.ubah()
 dataMhs.hapus()
 
 dataMhs.tampilkan()
+
+# FLOWCHART
+
