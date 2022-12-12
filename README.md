@@ -61,4 +61,4 @@ dataMhs.hapus()
 dataMhs.tampilkan()
 
 # FLOWCHART
-
+![gambar](gambar/b10.png)
